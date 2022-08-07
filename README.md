@@ -1,2 +1,2 @@
-# Salary-data
+# Salary_data
 prediction of salries
